@@ -1,1 +1,2 @@
-cp -Rf /tmp/src/* /var/www/html/
+#!/bin/bash -e
+cp -Rf /tmp/src/.  /var/www/html/
